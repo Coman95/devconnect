@@ -2,7 +2,7 @@
 Connect with other developers:
 
 Live demo:
-https://cosmin-dashboard.herokuapp.com/
+https://connect-w-dev.herokuapp.com/
 
 <br>
 
@@ -22,7 +22,7 @@ HTML / CSS<br>
 
 # Run it yourself
 ```
-git clone https://github.com/Coman95/cosmin-dashboard.git
+git clone https://github.com/Coman95/devconnect.git
 cd devsearch
 pip install - r requirements.txt
 ```
